@@ -1,2 +1,2 @@
-# Projects
-Repository of projects
+# Game "Tic Tac Toe" 
+Repository of projects with game 
